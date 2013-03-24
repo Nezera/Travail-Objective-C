@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'TP' target in the 'TP' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
